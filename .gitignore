@@ -1,0 +1,14 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Archives and local artifacts
+*.zip
+*.log
