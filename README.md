@@ -35,8 +35,4 @@ The dashboard embeds its synthetic data so it can run as a static page without i
 
 This is a learning simulation, not a production support system and not evidence of professional customer-support employment. It is not Recruit CRM software, is not affiliated with Recruit CRM, and does not use private Recruit CRM data. Metrics shown are illustrative and must not be represented as real business outcomes.
 
-## Suggested resume title
 
-**Recruitment CRM Customer Success & Support Simulation** | Ticket Triage, Customer Communication, Onboarding, Support Analytics
-
-Use only claims you can explain and demonstrate. Keep the project labelled as a simulation, and keep actual experience from E-Cell or other activities separate from these synthetic scenarios.
